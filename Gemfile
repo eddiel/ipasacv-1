@@ -6,6 +6,7 @@ gem 'devise'
 gem 'jquery-rails'
 gem "paperclip", "~> 3.0"
 gem 'admin_interface'
+gem "meta_search"
 
 # Gems used in development environment
 group :development do
